@@ -1,11 +1,9 @@
-# Repositório de Exercicios [PT-BR]
+# 🤘🏽 Repositório de Exercicios [PT-BR]
 
-**- Objetivo do Repositório**<br>
+## 🎯 **Objetivo do Repositório**<br>
 Armazenar os exercicios realizados durante o aprendizado do curso Programador Fullstack JavaScript da OneBitCode. Com perfeito funcionamento, ordenados e organizados em seus respectivos módulos. Para não criar mais repositórios de exercicios de cursos, irei expandir esse repositório para armazenar de outros cursos mais pra frente.
 
-<hr>
-
-**- Módulos do Curso**
+## 🍁 **Módulos do Curso**
 | NUM           | MÓDULO             | DATA DE CONCLUSÃO |
 | ------------- | -------------      | ----------------- |
 | 01            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height='20' width='20'/> HTML               | 27/07/2022        |                   
@@ -25,12 +23,10 @@ Armazenar os exercicios realizados durante o aprendizado do curso Programador Fu
 | 15            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='20' width='20'/>  TypeScript    | ??/??/????       |
 | 16            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height='20' width='20'/>  Bulma    | ??/??/????       |
 
-<hr>
-
-**[Exercicios Disponíveis e Resolvidos]**
+## 🌿 **Exercicios Disponíveis e Resolvidos**
 
 **Módulo 01: HTML5**
-  - 001 - Criando uma Lista (Listas no HTML)
+  - 001 - <a href="/OneBitCode/Módulo 01 - HTML/001 - Criando uma Lista (Listas no HTML)/">Criando uma Lista (Listas no HTML)</a>
   - 002 - Guia de Galáxias (Hyperlink no HTML)
   - 003 - Criando sua primeira Tabela (Tabelas no HTML)
   - 004 - Criando seu primeiro Form (Formulários no HTML)
