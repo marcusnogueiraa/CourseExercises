@@ -29,7 +29,7 @@ Armazenar os exercicios realizados durante o aprendizado do curso Programador Fu
   - 001 - <a href="/OneBitCode/Módulo 01 - HTML/001 - Criando uma Lista (Listas no HTML)/">Criando uma Lista (Listas no HTML)</a>
   - 002 - <a href="/OneBitCode/Módulo 01 - HTML/002 - Guia de Galáxias (Hyperlink no HTML)/">Guia de Galáxias (Hyperlink no HTML)</a>
   - 003 - <a href="/OneBitCode/Módulo 01 - HTML/003 - Criando sua primeira Tabela (Tabelas no HTML)/">Criando sua primeira Tabela (Tabelas no HTML)</a>
-  - 004 - Criando seu primeiro Form (Formulários no HTML)
+  - 004 - <a href="/OneBitCode/Módulo 01 - HTML/004 - Criando seu primeiro Form (Formulários no HTML)/">Criando seu primeiro Form (Formulários no HTML)</a>
   - 005 - Criando um site completo (Site apenas com HTML)
 
 **Módulo 02: CSS**
