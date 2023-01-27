@@ -33,7 +33,7 @@ Armazenar os exercicios realizados durante o aprendizado do curso Programador Fu
   - 005 - <a href="/OneBitCode/Módulo 01 - HTML/005 - Criando um site completo (Site apenas com HTML)/">Criando um site completo (Site apenas com HTML)</a>
 
 **Módulo 02: CSS**
-  - 001 - Recriando um Site com CSS #1 (Conceitos Básicos)
+  - 001 - <a href="/OneBitCode/Módulo 02 - CSS/001 - Recriando um Site com CSS #1 (Conceitos Básicos)/">Recriando um Site com CSS #1 (Conceitos Básicos)</a>
   - 002 - Guia de Galáxias (Box Model e Fontes)
 
 **Módulo 03: CSS Moderno**
