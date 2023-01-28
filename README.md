@@ -34,7 +34,7 @@ Armazenar os exercicios realizados durante o aprendizado do curso Programador Fu
 
 **Módulo 02: CSS**
   - 001 - <a href="/OneBitCode/Módulo 02 - CSS/001 - Recriando um Site com CSS #1 (Conceitos Básicos)/">Recriando um Site com CSS #1 (Conceitos Básicos)</a>
-  - 002 - Guia de Galáxias (Box Model e Fontes)
+  - 002 - <a href="/OneBitCode/Módulo 02 - CSS/002 - Blog Post (Box Model e Fontes)/">Blog Post (Box Model e Fontes)</a>
 
 **Módulo 03: CSS Moderno**
   - 001 - Criando um Header (Flexbox)
