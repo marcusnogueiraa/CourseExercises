@@ -37,7 +37,7 @@ Armazenar os exercicios realizados durante o aprendizado do curso Programador Fu
   - 002 - <a href="/OneBitCode/Módulo 02 - CSS/002 - Blog Post (Box Model e Fontes)/">Blog Post (Box Model e Fontes)</a>
 
 **Módulo 03: CSS Moderno**
-  - 001 - Criando um Header (Flexbox)
+  - 001 - <a href="/OneBitCode/Módulo 03 - CSS Moderno/">Criando um Header (Flexbox)</a>
   - 002 - LayoutGrid (Grid)
   - 003 - OneBitSports (Site Esportivo utilizando Flexbox e Grid)
 
