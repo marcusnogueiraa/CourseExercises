@@ -45,3 +45,5 @@
 - 022 - Fatorial (For)
 - 023 - Divisores (For)
 - 024 - Potencia (For)
+
+# **Módulo 02: Java Intermediário e POO**
