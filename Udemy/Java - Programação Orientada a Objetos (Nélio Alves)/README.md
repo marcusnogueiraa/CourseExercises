@@ -47,3 +47,7 @@
 - 024 - Potencia (For)
 
 # **Módulo 02: Java Intermediário e POO**
+
+- 001 Retângulo (Classes e Métodos)
+- 002 Funcionário (Classes e Métodos)
+- 003 Estudante (Classes e Métodos)
