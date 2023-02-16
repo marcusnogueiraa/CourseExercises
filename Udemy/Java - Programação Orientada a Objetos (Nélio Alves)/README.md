@@ -51,3 +51,8 @@
 - 001 Retângulo (Classes e Métodos)
 - 002 Funcionário (Classes e Métodos)
 - 003 Estudante (Classes e Métodos)
+- 004 Dollar (Métodos Estáticos)
+- 005 Conta Bancária (Encapsulamento)
+- 006 Negativos (Vetores)
+- 007 Somar Vetor (Vetores)
+- 008 Alturas (Vetores)
